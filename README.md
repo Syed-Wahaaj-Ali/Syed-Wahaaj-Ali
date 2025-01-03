@@ -13,6 +13,9 @@ I'm a student passionate about becoming a **front-end developer**. Currently, I'
 
 - I'm always excited to learn new things and challenge myself with new projects.
 
+## Connect with Me:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/syedwahaajali28)
+
 ## 🛠️ Languages & Tools
 
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C&logoColor=white)
