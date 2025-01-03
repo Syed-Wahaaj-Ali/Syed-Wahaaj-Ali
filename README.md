@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Syed Wahaaj Ali 👋
 
-<!--
-**Syed-Wahaaj-Ali/Syed-Wahaaj-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student passionate about becoming a **front-end developer**. Currently, I'm learning **C** and **C++** to strengthen my programming foundation. I aim to explore **web development** and create amazing projects in the future!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently learning **C** and **C++**.
+- 🌱 I'm want to be a **front-end developer**.
+- 💬 Feel free to ask me about **programming, tech, or front-end development**.
+- 📫 How to reach me: *syedwahaajali2006@gmail.com*
+
+## ⚡ Fun Fact
+
+- I'm always excited to learn new things and challenge myself with new projects.
+
+## 🛠️ Languages & Tools
+
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+Feel free to explore my repositories and let's connect!
