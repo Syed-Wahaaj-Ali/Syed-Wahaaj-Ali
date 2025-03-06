@@ -5,13 +5,7 @@ I'm a student passionate about becoming a **front-end developer**. Currently, I'
 ## 🚀 About Me
 
 - 🔭 I’m currently learning **C** and **C++**.
-- 🌱 I'm want to be a **front-end developer**.
-- 💬 Feel free to ask me about **programming, tech, or front-end development**.
-- 📫 How to reach me: *syedwahaajali2006@gmail.com*
-
-## ⚡ Fun Fact
-
-- I'm always excited to learn new things and challenge myself with new projects.
+- 🌱 I want to be a **front-end developer**.
 
 ## Connect with Me:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/syedwahaajali28)
