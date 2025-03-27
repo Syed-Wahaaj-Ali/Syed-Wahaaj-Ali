@@ -1,18 +1,32 @@
 # Hi there, I'm Syed Wahaaj Ali 👋
 
-I'm a student passionate about becoming a **front-end developer**. Currently, I'm learning **C** and **C++** to strengthen my programming foundation. I aim to explore **web development** and create amazing projects in the future!
+I'm a **Student at NED University of Engineering and Technology**, currently learning **C**, **C++**, and **Python**. I am passionate about **Front-End Development** and have plans to dive into **HTML**, **CSS**, and **JavaScript** soon. I'm constantly exploring new technologies and improving my skills to become a better developer.
 
-## 🚀 About Me
+### 🌱 Currently Learning
+- **Python** (currently working with it)
+- **C & C++** (currently working on improving)
+- **Front-End Web Development** (soon to be learning HTML, CSS, JS)
 
-- 🔭 I’m currently learning **C** and **C++**.
-- 🌱 I want to be a **front-end developer**.
+### 📍 Find me on the web:
 
-## Connect with Me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/syedwahaajali28)
+[LinkedIn](https://www.linkedin.com/in/syedwahaajali28/)  
+[LeetCode](https://leetcode.com/u/Syed_Wahaaj_Ali/)  
 
-## 🛠️ Languages & Tools
+### 📱 Connect with me:
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/syedwahaajali28/)
 
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+### 💻 Languages & Tools:
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+</p>
 
-Feel free to explore my repositories and let's connect!
+### 📊 GitHub Stats:
+![Syed Wahaaj Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syed-Wahaaj-Ali&show_icons=true&theme=radical)
+
+### ⚡ Fun Fact:
+- I'm always up for learning new programming languages and solving problems on platforms like LeetCode and HackerRank.
