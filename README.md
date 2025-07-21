@@ -3,7 +3,7 @@
 I'm a **Student at NED University of Engineering and Technology**, currently learning **C**, **C++**, and **Python**. I am passionate about **Front-End Development** and have plans to dive into **HTML**, **CSS**, and **JavaScript** soon. I'm constantly exploring new technologies and improving my skills to become a better developer.
 
 ### 🌱 Currently Learning
-- **Python** (currently working with it)
+- **Python** (soon will be working with it)
 - **C & C++** (currently working on improving)
 - **Front-End Web Development** (soon to be learning HTML, CSS, JS)
 
@@ -17,7 +17,6 @@ I'm a **Student at NED University of Engineering and Technology**, currently lea
 
 ### 💻 Languages & Tools:
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
