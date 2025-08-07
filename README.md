@@ -1,9 +1,8 @@
 # Hi there, I'm Syed Wahaaj Ali 👋
 
-I'm a **Student at NED University of Engineering and Technology**, currently learning **C**, **C++**, and **Python**. I am passionate about **Front-End Development** and have plans to dive into **HTML**, **CSS**, and **JavaScript** soon. I'm constantly exploring new technologies and improving my skills to become a better developer.
+I'm a **Student at NED University of Engineering and Technology**, currently learning **C** and **C++**. I am passionate about **Front-End Development** and have plans to dive into **HTML**, **CSS**, and **JavaScript** soon. I'm constantly exploring new technologies and improving my skills to become a better developer.
 
 ### 🌱 Currently Learning
-- **Python** (soon will be working with it)
 - **C & C++** (currently working on improving)
 - **Front-End Web Development** (soon to be learning HTML, CSS, JS)
 
