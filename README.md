@@ -3,7 +3,7 @@
 🎓 **Student at NED University of Engineering and Technology**  
 💻 Currently working with **C** and **C++ (OOP)**  
 🖥 Learning **Qt C++** for GUI development  
-🚀 Always exploring new technologies & sharpening problem-solving skills
+🚀 Currently exploring Html, CSS and JavaScript.
 
 
 
