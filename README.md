@@ -17,12 +17,7 @@
 
 
 ## 💻 Languages & Tools
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake)](https://skillicons.dev)
 
 
 ## 📊 GitHub Stats
