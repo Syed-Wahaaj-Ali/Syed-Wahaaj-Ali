@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Syed Wahaaj Ali**
+# 👋 Hi, I'm **Syed Wahaaj Ali**
 
 🎓 **Student at NED University of Engineering and Technology**  
 💻 Currently working with **C** and **C++ (OOP)**  
