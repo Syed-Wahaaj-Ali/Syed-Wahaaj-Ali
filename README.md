@@ -30,6 +30,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Wahaaj-Ali&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Wahaaj-Ali&theme=tokyonight&hide_border=true&bg_color=000000&line=00ff00&point=00ff00&area=003300" alt="GitHub Activity Graph" />
+</p>
+
 
 ## ⚡ Fun Fact
 I enjoy learning **new programming languages** and taking on **coding challenges** on platforms like **LeetCode** and **HackerRank**.
