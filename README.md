@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Syed-Wahaaj-Ali&show_icons=true&theme=tokyonight" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Syed-Wahaaj-Ali&show_icons=true&theme=tokyonight" height="165px"/>
   <img src="https://streak-stats.demolab.com/?user=Syed-Wahaaj-Ali&theme=tokyonight" height="165" />
 </p>
 
