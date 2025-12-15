@@ -2,13 +2,11 @@
 
 🎓 **Student at NED University of Engineering and Technology**  
 💻 Currently working with **C** and **C++ (OOP)**  
-🖥 Learning **Qt C++** for GUI development  
 
 
 ## 🌱 Currently Learning
-- **C & C++ OOP** — building a strong foundation in object-oriented programming
-- **Qt C++** — creating interactive desktop GUI applications
-
+- **C, C++ OOP** — building a strong foundation in object-oriented programming
+- **DSA in C++**
 
 ## 📍 Find me on the Web
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedwahaajali28/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Syed_Wahaaj_Ali/)
