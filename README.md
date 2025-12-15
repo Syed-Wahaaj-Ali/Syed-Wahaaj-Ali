@@ -3,8 +3,6 @@
 🎓 **Student at NED University of Engineering and Technology**  
 💻 Currently working with **C** and **C++ (OOP)**  
 🖥 Learning **Qt C++** for GUI development  
-🚀 Currently exploring Html, CSS and JavaScript.
-
 
 
 ## 🌱 Currently Learning
@@ -33,7 +31,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Wahaaj-Ali&theme=tokyonight&hide_border=true&bg_color=000000&line=00ff00&point=00ff00&area=003300" alt="GitHub Activity Graph" />
 </p>
-
 
 ## ⚡ Fun Fact
 I enjoy learning **new programming languages** and taking on **coding challenges** on platforms like **LeetCode** and **HackerRank**.
